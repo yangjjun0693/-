@@ -1,2 +1,8 @@
-# -
-이 프로젝트는 학습용으로 클래스카드학습을 효율화하기 위한 Python 기반 자동화 툴킷입니다.  사용자의 학습 흐름을 방해하는 단순 클릭과 반복 타이핑을 자동화하여, 실제 암기와 학습에만 집중할 수 있는 환경을 제공합니다. 이미지 인식(OpenCV), 텍스트 인식(OCR), 그리고 키보드/마우스 제어(PyAutoGUI) 기술을 조합하여 다양한 학습 모드에 대응합니다. 툴을 사용함으로써 발생하는 모든 일에 대한 책임음 모두 본인에게 있습니다. 
+#
+요구 사항
+```Chrome, Python ClassCard Auto Chrome Extensions```
+# ※ 본 툴은 학습용으로 사용시 발생하는 문제에 대한 책임은 모두 사용자 본인에게 있습니다.
+
+본 툴은 클래스카드의 암기, 리콜, 스펠 학습을 자동화하는 툴입니다.
+
+``` R.py (리콜) 사용시 https://chromewebstore.google.com/detail/classcard-auto/ddhailnbodajnflekpkmkpglocmendfp 에서 extension 다운로드 후 리콜 가이드 켜주세요.```
